@@ -24,3 +24,7 @@
 .custom-shape-divider-top-1703288500 .shape-fill {
     fill: #9013FE;
 }
+
+html {
+    scroll-behavior: smooth;
+}
