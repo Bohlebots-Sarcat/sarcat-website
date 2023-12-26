@@ -7,7 +7,7 @@
     <section id="main">
         <Waves />
         <div class="relative">
-            <h1 class="absolute top-1/2 left-1/2 transform -translate-x-1/2 translate-y-28 text-secondary text-9xl font-jetbrains"></h1>
+            <h1 class="absolute top-1/2 left-1/2 transform -translate-x-1/2 translate-y-28 text-secondary text-9xl font-jetbrains">Sarcat</h1>
         </div>
         <div class="bg-primary h-screen flex justify-center items-center">
             <div class="rounded-lg p-10 gradient justify-center items-center flex h-screen w-screen">
@@ -28,6 +28,9 @@
         </div>
     </section>
     <section id="hardware">
+        <div class="relative">
+            <h1 class="absolute top-1/2 left-1/2 transform -translate-x-1/2 translate-y-28 text-secondary text-9xl font-jetbrains">Hardware</h1>
+        </div>
         <div class="h-screen bg-primary">
 
         </div>
